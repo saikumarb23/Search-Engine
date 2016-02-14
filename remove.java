@@ -8,5 +8,4 @@ public static String Remove(String s)
 	s=vec.get(i).replaceAll("my|name|is| a|an|of|the|or|of|for|in|as|at","").trim();
 	}
 	return s;
-															
 	}
