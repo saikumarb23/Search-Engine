@@ -5,7 +5,6 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.store.FSDirectory;
 import com.google.gson.JsonElement;
-
 public class Conversion {
 	public static void main(String args[])
 	{
